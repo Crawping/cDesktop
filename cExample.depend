@@ -1,0 +1,1232 @@
+# depslib dependency file v1.0
+1366964678 source:c:\cexample\box.cpp
+	"Box.h"
+
+1366897532 c:\cexample\box.h
+	"Object.h"
+
+1366898286 c:\cexample\object.h
+	"Position.h"
+
+1366872848 c:\cexample\position.h
+
+1366964771 source:c:\cexample\engine.cpp
+	"Engine.h"
+	"World.h"
+	"Object.h"
+	"Player.h"
+
+1366874732 c:\cexample\engine.h
+	"World.h"
+
+1366875300 c:\cexample\world.h
+	<vector>
+	"Object.h"
+	"Player.h"
+	"Box.h"
+	"Spikes.h"
+	"PoisoningCloud.h"
+
+1366898200 c:\cexample\player.h
+	"Object.h"
+
+1366897610 c:\cexample\spikes.h
+	"Object.h"
+
+1366897610 c:\cexample\poisoningcloud.h
+	"Object.h"
+
+1366964771 source:c:\cexample\framework\event.cpp
+	"Event.h"
+	"EventsMgr.h"
+
+1365252514 c:\cexample\framework\event.h
+	<string>
+
+1366723766 c:\cexample\framework\eventsmgr.h
+	<vector>
+	<functional>
+	<list>
+	"Event.h"
+
+1366964771 source:c:\cexample\framework\eventsmgr.cpp
+	"EventsMgr.h"
+
+1366964771 source:c:\cexample\framework\filemgr.cpp
+	"FileMgr.h"
+	<fstream>
+	<regex>
+	<iostream>
+	<list>
+
+1365015526 c:\cexample\framework\filemgr.h
+	<string>
+	<vector>
+
+1366964771 source:c:\cexample\framework\tasksmgr.cpp
+	"TasksMgr.h"
+
+1365015526 c:\cexample\framework\tasksmgr.h
+	<vector>
+	<list>
+	<functional>
+
+1366964771 source:c:\cexample\object.cpp
+	"Object.h"
+
+1366964771 source:c:\cexample\player.cpp
+	"Player.h"
+
+1366964771 source:c:\cexample\poisoningcloud.cpp
+	"PoisoningCloud.h"
+
+1366964779 source:c:\cexample\position.cpp
+	"Position.h"
+
+1366964771 source:c:\cexample\spikes.cpp
+	"Spikes.h"
+
+1366964779 source:c:\cexample\world.cpp
+	"World.h"
+
+1369562162 source:e:\cexample\box.cpp
+	"stdafx.h"
+	"Box.h"
+	"Engine.h"
+	"Events.h"
+
+1368692810 e:\cexample\box.h
+	"Object.h"
+	"Events.h"
+
+1368706902 e:\cexample\object.h
+	"Icon.h"
+	"Position.h"
+
+1368692060 e:\cexample\position.h
+
+1369745490 source:e:\cexample\engine.cpp
+	"stdafx.h"
+	"Engine.h"
+	"winapi.h"
+	"Object.h"
+	"Box.h"
+	"Player.h"
+	"NPC.h"
+	"PoisoningCloud.h"
+	"Spikes.h"
+	"Health.h"
+	"Events.h"
+
+1369559860 e:\cexample\engine.h
+	<vector>
+	<string>
+	"Framework/EventsMgr.h"
+	"Framework/TasksMgr.h"
+	"Position.h"
+
+1367869576 e:\cexample\world.h
+	<vector>
+	"Object.h"
+	"Player.h"
+	"Box.h"
+	"Spikes.h"
+	"PoisoningCloud.h"
+
+1368705390 e:\cexample\player.h
+	"Object.h"
+	"Events.h"
+
+1368536834 e:\cexample\spikes.h
+	"Object.h"
+
+1368616668 e:\cexample\poisoningcloud.h
+	"Object.h"
+	"Events.h"
+
+1368912562 source:e:\cexample\framework\event.cpp
+	"../stdafx.h"
+	"Event.h"
+	"EventsMgr.h"
+
+1368216000 e:\cexample\framework\event.h
+	<string>
+
+1368461732 e:\cexample\framework\eventsmgr.h
+	<vector>
+	<functional>
+	<list>
+	"Event.h"
+
+1368912576 source:e:\cexample\framework\eventsmgr.cpp
+	"../stdafx.h"
+	"EventsMgr.h"
+
+1368912576 source:e:\cexample\framework\filemgr.cpp
+	"../stdafx.h"
+	"FileMgr.h"
+
+1368456510 e:\cexample\framework\filemgr.h
+	<string>
+	<vector>
+
+1368912616 source:e:\cexample\framework\tasksmgr.cpp
+	"../stdafx.h"
+	"TasksMgr.h"
+
+1368456510 e:\cexample\framework\tasksmgr.h
+	<vector>
+	<list>
+	<functional>
+
+1368912246 source:e:\cexample\main.cpp
+	"stdafx.h"
+	"Engine.h"
+	"cTimer.h"
+
+1369581400 source:e:\cexample\object.cpp
+	"stdafx.h"
+	"Object.h"
+	"Engine.h"
+	"winapi.h"
+
+1369581278 source:e:\cexample\player.cpp
+	"stdafx.h"
+	"Player.h"
+	"Engine.h"
+	"winapi.h"
+	"Events.h"
+
+1368696572 source:e:\cexample\poisoningcloud.cpp
+	"PoisoningCloud.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+
+1369581354 source:e:\cexample\position.cpp
+	"stdafx.h"
+	"Position.h"
+	"Icon.h"
+
+1368696584 source:e:\cexample\spikes.cpp
+	"Spikes.h"
+	"Engine.h"
+	"Events.h"
+
+1366964780 source:e:\cexample\world.cpp
+	"World.h"
+
+1368912252 source:e:\cexample\ctimer.cpp
+	"stdafx.h"
+	"cTimer.h"
+
+1368695908 e:\cexample\ctimer.h
+	<windows.h>
+
+1367326736 e:\cexample\graphics.h
+	<windows.h>
+	<gdiplus.h>
+	<stdio.h>
+
+1367327052 source:e:\cexample\graphics.cpp
+	"Graphics.h"
+	<windows.h>
+	<gdiplus.h>
+	<stdio.h>
+
+1367327314 source:e:\cexample\sprite.cpp
+	"Sprite.h"
+	"Graphics.h"
+	<windows.h>
+	<gdiplus.h>
+
+1367327296 e:\cexample\sprite.h
+	<string>
+
+1369596774 e:\cexample\icon.h
+	<string>
+	"Position.h"
+
+1368912240 source:e:\cexample\health.cpp
+	"stdafx.h"
+	"Health.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+	<iostream>
+
+1368696490 e:\cexample\health.h
+	"Object.h"
+	"Events.h"
+
+1369745544 source:e:\cexample\icon.cpp
+	"stdafx.h"
+	"Icon.h"
+	"winapi.h"
+	"Engine.h"
+	"Object.h"
+
+1369744684 e:\cexample\winapi.h
+	<string>
+	<vector>
+	<unordered_map>
+	"Position.h"
+
+1369745320 source:e:\cexample\winapi.cpp
+	"stdafx.h"
+	"winapi.h"
+
+1368310512 source:g:\cexample\box.cpp
+	"Box.h"
+
+1368336930 g:\cexample\box.h
+	"Object.h"
+
+1368178200 g:\cexample\object.h
+	"Icon.h"
+	"Position.h"
+
+1368177934 g:\cexample\icon.h
+	<string>
+	"Position.h"
+
+1366872848 g:\cexample\position.h
+
+1368177694 source:g:\cexample\ctimer.cpp
+	"cTimer.h"
+
+1367326248 g:\cexample\ctimer.h
+	<windows.h>
+
+1368344338 source:g:\cexample\engine.cpp
+	"Engine.h"
+	<iostream>
+	"winapi.h"
+	"Object.h"
+	"Box.h"
+
+1368344330 g:\cexample\engine.h
+	<vector>
+	<string>
+	"Framework/EventsMgr.h"
+	"Framework/TasksMgr.h"
+
+1368342350 g:\cexample\winapi.h
+	<string>
+	<vector>
+
+1366964772 source:g:\cexample\framework\event.cpp
+	"Event.h"
+	"EventsMgr.h"
+
+1365252514 g:\cexample\framework\event.h
+	<string>
+
+1366723766 g:\cexample\framework\eventsmgr.h
+	<vector>
+	<functional>
+	<list>
+	"Event.h"
+
+1366964772 source:g:\cexample\framework\eventsmgr.cpp
+	"EventsMgr.h"
+
+1366964772 source:g:\cexample\framework\filemgr.cpp
+	"FileMgr.h"
+	<fstream>
+	<regex>
+	<iostream>
+	<list>
+
+1365015526 g:\cexample\framework\filemgr.h
+	<string>
+	<vector>
+
+1366964772 source:g:\cexample\framework\tasksmgr.cpp
+	"TasksMgr.h"
+
+1365015526 g:\cexample\framework\tasksmgr.h
+	<vector>
+	<list>
+	<functional>
+
+1368177554 source:g:\cexample\health.cpp
+	"Health.h"
+
+1368176114 g:\cexample\health.h
+	"Object.h"
+
+1368337376 source:g:\cexample\icon.cpp
+	"Icon.h"
+
+1367869044 source:g:\cexample\main.cpp
+	"Engine.h"
+	"cTimer.h"
+	<windows.h>
+	<iostream>
+	<windows.h>
+	<gdiplus.h>
+	<stdio.h>
+
+1368344364 source:g:\cexample\object.cpp
+	"Object.h"
+	"Engine.h"
+	"winapi.h"
+
+1368177596 source:g:\cexample\player.cpp
+	"Player.h"
+
+1368176954 g:\cexample\player.h
+	"Object.h"
+
+1368177554 source:g:\cexample\poisoningcloud.cpp
+	"PoisoningCloud.h"
+
+1368176954 g:\cexample\poisoningcloud.h
+	"Object.h"
+
+1366964780 source:g:\cexample\position.cpp
+	"Position.h"
+
+1368177554 source:g:\cexample\spikes.cpp
+	"Spikes.h"
+
+1368176954 g:\cexample\spikes.h
+	"Object.h"
+
+1368343628 source:g:\cexample\winapi.cpp
+	"winapi.h"
+	<cstring>
+	<string>
+	<cstdio>
+	"windows.h"
+	<tchar.h>
+	<iostream>
+
+1370504734 source:c:\users\castro\desktop\cexample\box.cpp
+	"stdafx.h"
+	"Box.h"
+	"Engine.h"
+	"Events.h"
+
+1368692810 c:\users\castro\desktop\cexample\box.h
+	"Object.h"
+	"Events.h"
+
+1370462028 c:\users\castro\desktop\cexample\object.h
+	"Icon.h"
+	"Position.h"
+
+1370463148 c:\users\castro\desktop\cexample\icon.h
+	<string>
+	"Position.h"
+
+1370502092 c:\users\castro\desktop\cexample\position.h
+
+1368912252 source:c:\users\castro\desktop\cexample\ctimer.cpp
+	"stdafx.h"
+	"cTimer.h"
+
+1368695908 c:\users\castro\desktop\cexample\ctimer.h
+	<windows.h>
+
+1368912562 source:c:\users\castro\desktop\cexample\framework\event.cpp
+	"../stdafx.h"
+	"Event.h"
+	"EventsMgr.h"
+
+1368216000 c:\users\castro\desktop\cexample\framework\event.h
+	<string>
+
+1368461732 c:\users\castro\desktop\cexample\framework\eventsmgr.h
+	<vector>
+	<functional>
+	<list>
+	"Event.h"
+
+1368912576 source:c:\users\castro\desktop\cexample\framework\eventsmgr.cpp
+	"../stdafx.h"
+	"EventsMgr.h"
+
+1368912576 source:c:\users\castro\desktop\cexample\framework\filemgr.cpp
+	"../stdafx.h"
+	"FileMgr.h"
+
+1368456510 c:\users\castro\desktop\cexample\framework\filemgr.h
+	<string>
+	<vector>
+
+1368912616 source:c:\users\castro\desktop\cexample\framework\tasksmgr.cpp
+	"../stdafx.h"
+	"TasksMgr.h"
+
+1368456510 c:\users\castro\desktop\cexample\framework\tasksmgr.h
+	<vector>
+	<list>
+	<functional>
+
+1370463588 source:c:\users\castro\desktop\cexample\health.cpp
+	"stdafx.h"
+	"Health.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+	<iostream>
+
+1370454514 c:\users\castro\desktop\cexample\health.h
+	"Object.h"
+	"Events.h"
+
+1370511390 source:c:\users\castro\desktop\cexample\icon.cpp
+	"stdafx.h"
+	"Icon.h"
+	"winapi.h"
+	"Engine.h"
+	"Object.h"
+
+1370511214 source:c:\users\castro\desktop\cexample\main.cpp
+	"stdafx.h"
+	"Engine.h"
+	"cTimer.h"
+
+1370498258 c:\users\castro\desktop\cexample\engine.h
+	<vector>
+	<string>
+	"Framework/EventsMgr.h"
+	"Framework/TasksMgr.h"
+	"Position.h"
+
+1370452410 source:c:\users\castro\desktop\cexample\object.cpp
+	"stdafx.h"
+	"Object.h"
+	"Engine.h"
+	"winapi.h"
+
+1370501593 c:\users\castro\desktop\cexample\winapi.h
+	<string>
+	<vector>
+	<unordered_map>
+	"Position.h"
+
+1370504932 source:c:\users\castro\desktop\cexample\player.cpp
+	"stdafx.h"
+	"Player.h"
+	"Engine.h"
+	"winapi.h"
+	"Events.h"
+
+1368705390 c:\users\castro\desktop\cexample\player.h
+	"Object.h"
+	"Events.h"
+
+1370454506 source:c:\users\castro\desktop\cexample\poisoningcloud.cpp
+	"PoisoningCloud.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+
+1370454506 c:\users\castro\desktop\cexample\poisoningcloud.h
+	"Object.h"
+	"Events.h"
+
+1370504178 source:c:\users\castro\desktop\cexample\position.cpp
+	"stdafx.h"
+	"Position.h"
+	"Icon.h"
+
+1370463654 source:c:\users\castro\desktop\cexample\spikes.cpp
+	"Spikes.h"
+	"Engine.h"
+	"Events.h"
+
+1370454506 c:\users\castro\desktop\cexample\spikes.h
+	"Object.h"
+
+1370511365 source:c:\users\castro\desktop\cexample\winapi.cpp
+	"stdafx.h"
+	"winapi.h"
+	"Object.h"
+
+1370504745 source:c:\users\castro\desktop\cexample\engine.cpp
+	"stdafx.h"
+	"Engine.h"
+	"winapi.h"
+	"Object.h"
+	"Box.h"
+	"Player.h"
+	"NPC.h"
+	"PoisoningCloud.h"
+	"Spikes.h"
+	"Health.h"
+	"Exit.h"
+	"Events.h"
+
+1368350236 c:\users\castro\desktop\cexample\eventtypes.h
+
+1368696414 c:\users\castro\desktop\cexample\events.h
+	"Framework/Event.h"
+	"EventTypes.h"
+
+1368350236 e:\cexample\eventtypes.h
+
+1368696414 e:\cexample\events.h
+	"Framework/Event.h"
+	"EventTypes.h"
+
+1368696942 source:d:\cexample\box.cpp
+	"Box.h"
+	"Engine.h"
+	"Events.h"
+
+1368692810 d:\cexample\box.h
+	"Object.h"
+	"Events.h"
+
+1368706902 d:\cexample\object.h
+	"Icon.h"
+	"Position.h"
+
+1368911338 d:\cexample\icon.h
+	<string>
+	"Position.h"
+
+1368692060 d:\cexample\position.h
+
+1368705318 d:\cexample\engine.h
+	<vector>
+	<string>
+	"Framework/EventsMgr.h"
+	"Framework/TasksMgr.h"
+	"Position.h"
+
+1368461732 d:\cexample\framework\eventsmgr.h
+	<vector>
+	<functional>
+	<list>
+	"Event.h"
+
+1368216000 d:\cexample\framework\event.h
+	<string>
+
+1368456510 d:\cexample\framework\tasksmgr.h
+	<vector>
+	<list>
+	<functional>
+
+1368350236 d:\cexample\eventtypes.h
+
+1368696414 d:\cexample\events.h
+	"Framework/Event.h"
+	"EventTypes.h"
+
+1368912252 source:d:\cexample\ctimer.cpp
+	"stdafx.h"
+	"cTimer.h"
+
+1368695908 d:\cexample\ctimer.h
+	<windows.h>
+
+1369384030 source:d:\cexample\engine.cpp
+	"stdafx.h"
+	"Engine.h"
+	"winapi.h"
+	"Object.h"
+	"Box.h"
+	"Player.h"
+	"NPC.h"
+	"PoisoningCloud.h"
+	"Spikes.h"
+	"Health.h"
+	"Events.h"
+
+1368911488 d:\cexample\winapi.h
+	<string>
+	<vector>
+
+1368705390 d:\cexample\player.h
+	"Object.h"
+	"Events.h"
+
+1368616668 d:\cexample\poisoningcloud.h
+	"Object.h"
+	"Events.h"
+
+1368536834 d:\cexample\spikes.h
+	"Object.h"
+
+1368696490 d:\cexample\health.h
+	"Object.h"
+	"Events.h"
+
+1368912562 source:d:\cexample\framework\event.cpp
+	"../stdafx.h"
+	"Event.h"
+	"EventsMgr.h"
+
+1368912576 source:d:\cexample\framework\eventsmgr.cpp
+	"../stdafx.h"
+	"EventsMgr.h"
+
+1368912576 source:d:\cexample\framework\filemgr.cpp
+	"../stdafx.h"
+	"FileMgr.h"
+
+1368456510 d:\cexample\framework\filemgr.h
+	<string>
+	<vector>
+
+1368912616 source:d:\cexample\framework\tasksmgr.cpp
+	"../stdafx.h"
+	"TasksMgr.h"
+
+1368912240 source:d:\cexample\health.cpp
+	"stdafx.h"
+	"Health.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+	<iostream>
+
+1368912228 source:d:\cexample\icon.cpp
+	"stdafx.h"
+	"Icon.h"
+	"winapi.h"
+	"Engine.h"
+	"Object.h"
+
+1368912246 source:d:\cexample\main.cpp
+	"stdafx.h"
+	"Engine.h"
+	"cTimer.h"
+
+1368912232 source:d:\cexample\object.cpp
+	"stdafx.h"
+	"Object.h"
+	"Engine.h"
+	"winapi.h"
+
+1368912224 source:d:\cexample\position.cpp
+	"stdafx.h"
+	"Position.h"
+
+1368696584 source:d:\cexample\spikes.cpp
+	"Spikes.h"
+	"Engine.h"
+	"Events.h"
+
+1369384042 source:d:\cexample\winapi.cpp
+	"stdafx.h"
+	"winapi.h"
+
+1368705400 source:d:\cexample\player.cpp
+	"Player.h"
+	"Engine.h"
+	"Events.h"
+
+1368696572 source:d:\cexample\poisoningcloud.cpp
+	"PoisoningCloud.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+
+1370454450 c:\users\castro\desktop\cexample\npc.h
+	"Object.h"
+	"Events.h"
+
+1370502001 source:c:\users\castro\desktop\cexample\npc.cpp
+	"NPC.h"
+	"Engine.h"
+	"Events.h"
+
+1368706950 e:\cexample\npc.h
+	"Object.h"
+	"Events.h"
+
+1368706940 source:e:\cexample\npc.cpp
+	"NPC.h"
+	"Engine.h"
+	"Events.h"
+
+1368912150 source:e:\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368912150 e:\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368912150 source:d:\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368912150 d:\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368706940 source:d:\cexample\npc.cpp
+	"NPC.h"
+	"Engine.h"
+	"Events.h"
+
+1368706950 d:\cexample\npc.h
+	"Object.h"
+	"Events.h"
+
+1368912150 source:j:\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368696942 source:j:\cexample\box.cpp
+	"Box.h"
+	"Engine.h"
+	"Events.h"
+
+1368692810 j:\cexample\box.h
+	"Object.h"
+	"Events.h"
+
+1368706902 j:\cexample\object.h
+	"Icon.h"
+	"Position.h"
+
+1368911338 j:\cexample\icon.h
+	<string>
+	"Position.h"
+
+1368692060 j:\cexample\position.h
+
+1368696414 j:\cexample\events.h
+	"Framework/Event.h"
+	"EventTypes.h"
+
+1368216000 j:\cexample\framework\event.h
+	<string>
+
+1368350236 j:\cexample\eventtypes.h
+
+1368705318 j:\cexample\engine.h
+	<vector>
+	<string>
+	"Framework/EventsMgr.h"
+	"Framework/TasksMgr.h"
+	"Position.h"
+
+1368461732 j:\cexample\framework\eventsmgr.h
+	<vector>
+	<functional>
+	<list>
+	"Event.h"
+
+1368456510 j:\cexample\framework\tasksmgr.h
+	<vector>
+	<list>
+	<functional>
+
+1368912252 source:j:\cexample\ctimer.cpp
+	"stdafx.h"
+	"cTimer.h"
+
+1368912150 j:\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368695908 j:\cexample\ctimer.h
+	<windows.h>
+
+1369384030 source:j:\cexample\engine.cpp
+	"stdafx.h"
+	"Engine.h"
+	"winapi.h"
+	"Object.h"
+	"Box.h"
+	"Player.h"
+	"NPC.h"
+	"PoisoningCloud.h"
+	"Spikes.h"
+	"Health.h"
+	"Events.h"
+
+1368911488 j:\cexample\winapi.h
+	<string>
+	<vector>
+
+1368705390 j:\cexample\player.h
+	"Object.h"
+	"Events.h"
+
+1368706950 j:\cexample\npc.h
+	"Object.h"
+	"Events.h"
+
+1368616668 j:\cexample\poisoningcloud.h
+	"Object.h"
+	"Events.h"
+
+1368536834 j:\cexample\spikes.h
+	"Object.h"
+
+1368696490 j:\cexample\health.h
+	"Object.h"
+	"Events.h"
+
+1368912562 source:j:\cexample\framework\event.cpp
+	"../stdafx.h"
+	"Event.h"
+	"EventsMgr.h"
+
+1368912576 source:j:\cexample\framework\eventsmgr.cpp
+	"../stdafx.h"
+	"EventsMgr.h"
+
+1368912576 source:j:\cexample\framework\filemgr.cpp
+	"../stdafx.h"
+	"FileMgr.h"
+
+1368456510 j:\cexample\framework\filemgr.h
+	<string>
+	<vector>
+
+1368912616 source:j:\cexample\framework\tasksmgr.cpp
+	"../stdafx.h"
+	"TasksMgr.h"
+
+1368912240 source:j:\cexample\health.cpp
+	"stdafx.h"
+	"Health.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+	<iostream>
+
+1368912228 source:j:\cexample\icon.cpp
+	"stdafx.h"
+	"Icon.h"
+	"winapi.h"
+	"Engine.h"
+	"Object.h"
+
+1368912246 source:j:\cexample\main.cpp
+	"stdafx.h"
+	"Engine.h"
+	"cTimer.h"
+
+1368706940 source:j:\cexample\npc.cpp
+	"NPC.h"
+	"Engine.h"
+	"Events.h"
+
+1368912232 source:j:\cexample\object.cpp
+	"stdafx.h"
+	"Object.h"
+	"Engine.h"
+	"winapi.h"
+
+1368705400 source:j:\cexample\player.cpp
+	"Player.h"
+	"Engine.h"
+	"Events.h"
+
+1368696572 source:j:\cexample\poisoningcloud.cpp
+	"PoisoningCloud.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+
+1368912224 source:j:\cexample\position.cpp
+	"stdafx.h"
+	"Position.h"
+
+1368696584 source:j:\cexample\spikes.cpp
+	"Spikes.h"
+	"Engine.h"
+	"Events.h"
+
+1369385412 source:j:\cexample\winapi.cpp
+	"stdafx.h"
+	"winapi.h"
+
+1368912150 source:c:\users\castro12321\desktop\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1370452543 source:c:\users\castro12321\desktop\cexample\box.cpp
+	"stdafx.h"
+	"Box.h"
+	"Engine.h"
+	"Events.h"
+
+1368692810 c:\users\castro12321\desktop\cexample\box.h
+	"Object.h"
+	"Events.h"
+
+1370462026 c:\users\castro12321\desktop\cexample\object.h
+	"Icon.h"
+	"Position.h"
+
+1370463147 c:\users\castro12321\desktop\cexample\icon.h
+	<string>
+	"Position.h"
+
+1368692060 c:\users\castro12321\desktop\cexample\position.h
+
+1368696414 c:\users\castro12321\desktop\cexample\events.h
+	"Framework/Event.h"
+	"EventTypes.h"
+
+1368216000 c:\users\castro12321\desktop\cexample\framework\event.h
+	<string>
+
+1368350236 c:\users\castro12321\desktop\cexample\eventtypes.h
+
+1369559860 c:\users\castro12321\desktop\cexample\engine.h
+	<vector>
+	<string>
+	"Framework/EventsMgr.h"
+	"Framework/TasksMgr.h"
+	"Position.h"
+
+1368461732 c:\users\castro12321\desktop\cexample\framework\eventsmgr.h
+	<vector>
+	<functional>
+	<list>
+	"Event.h"
+
+1368456510 c:\users\castro12321\desktop\cexample\framework\tasksmgr.h
+	<vector>
+	<list>
+	<functional>
+
+1368912252 source:c:\users\castro12321\desktop\cexample\ctimer.cpp
+	"stdafx.h"
+	"cTimer.h"
+
+1368912150 c:\users\castro12321\desktop\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368695908 c:\users\castro12321\desktop\cexample\ctimer.h
+	<windows.h>
+
+1368912562 source:c:\users\castro12321\desktop\cexample\framework\event.cpp
+	"../stdafx.h"
+	"Event.h"
+	"EventsMgr.h"
+
+1368912576 source:c:\users\castro12321\desktop\cexample\framework\eventsmgr.cpp
+	"../stdafx.h"
+	"EventsMgr.h"
+
+1368912576 source:c:\users\castro12321\desktop\cexample\framework\filemgr.cpp
+	"../stdafx.h"
+	"FileMgr.h"
+
+1368456510 c:\users\castro12321\desktop\cexample\framework\filemgr.h
+	<string>
+	<vector>
+
+1368912616 source:c:\users\castro12321\desktop\cexample\framework\tasksmgr.cpp
+	"../stdafx.h"
+	"TasksMgr.h"
+
+1370463586 source:c:\users\castro12321\desktop\cexample\health.cpp
+	"stdafx.h"
+	"Health.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+	<iostream>
+
+1370454512 c:\users\castro12321\desktop\cexample\health.h
+	"Object.h"
+	"Events.h"
+
+1368705390 c:\users\castro12321\desktop\cexample\player.h
+	"Object.h"
+	"Events.h"
+
+1370460045 source:c:\users\castro12321\desktop\cexample\main.cpp
+	"stdafx.h"
+	"Engine.h"
+	"cTimer.h"
+
+1370454468 source:c:\users\castro12321\desktop\cexample\npc.cpp
+	"NPC.h"
+	"Engine.h"
+	"Events.h"
+
+1370454448 c:\users\castro12321\desktop\cexample\npc.h
+	"Object.h"
+	"Events.h"
+
+1370452408 source:c:\users\castro12321\desktop\cexample\object.cpp
+	"stdafx.h"
+	"Object.h"
+	"Engine.h"
+	"winapi.h"
+
+1370462773 c:\users\castro12321\desktop\cexample\winapi.h
+	<string>
+	<vector>
+	<unordered_map>
+	"Position.h"
+
+1370452597 source:c:\users\castro12321\desktop\cexample\player.cpp
+	"stdafx.h"
+	"Player.h"
+	"Engine.h"
+	"winapi.h"
+	"Events.h"
+
+1370454504 source:c:\users\castro12321\desktop\cexample\poisoningcloud.cpp
+	"PoisoningCloud.h"
+	"Engine.h"
+	"Events.h"
+	"Player.h"
+
+1370454504 c:\users\castro12321\desktop\cexample\poisoningcloud.h
+	"Object.h"
+	"Events.h"
+
+1369581354 source:c:\users\castro12321\desktop\cexample\position.cpp
+	"stdafx.h"
+	"Position.h"
+	"Icon.h"
+
+1370454504 source:c:\users\castro12321\desktop\cexample\spikes.cpp
+	"Spikes.h"
+	"Engine.h"
+	"Events.h"
+
+1370454504 c:\users\castro12321\desktop\cexample\spikes.h
+	"Object.h"
+
+1370463471 source:c:\users\castro12321\desktop\cexample\engine.cpp
+	"stdafx.h"
+	"Engine.h"
+	"winapi.h"
+	"Object.h"
+	"Box.h"
+	"Player.h"
+	"NPC.h"
+	"PoisoningCloud.h"
+	"Spikes.h"
+	"Health.h"
+	"Exit.h"
+	"Events.h"
+
+1370463505 source:c:\users\castro12321\desktop\cexample\icon.cpp
+	"stdafx.h"
+	"Icon.h"
+	"winapi.h"
+	"Engine.h"
+	"Object.h"
+
+1370463384 source:c:\users\castro12321\desktop\cexample\winapi.cpp
+	"stdafx.h"
+	"winapi.h"
+	"Object.h"
+
+1370454483 c:\users\castro12321\desktop\cexample\exit.h
+	"Object.h"
+
+1370454504 source:c:\users\castro12321\desktop\cexample\exit.cpp
+	"stdafx.h"
+	"Exit.h"
+	"Engine.h"
+
+1368912150 source:c:\users\castro\desktop\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1368912150 c:\users\castro\desktop\cexample\stdafx.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+	<Commctrl.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<list>
+
+1370454484 c:\users\castro\desktop\cexample\exit.h
+	"Object.h"
+
+1370497639 source:c:\users\castro\desktop\cexample\exit.cpp
+	"stdafx.h"
+	"Exit.h"
+	"Engine.h"
+

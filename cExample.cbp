@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cExample" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Objects\;Framework\;Engine\;Objects\Informational\;Objects\Interactable\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cExample" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Wextra" />
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cExample" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Box.cpp">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Box.h">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Engine.cpp">
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Unit filename="Engine.h">
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Unit filename="EventTypes.h">
+			<Option virtualFolder="Framework/" />
+		</Unit>
+		<Unit filename="Events.h">
+			<Option virtualFolder="Framework/" />
+		</Unit>
+		<Unit filename="Exit.cpp">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Exit.h">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Framework/Event.cpp" />
+		<Unit filename="Framework/Event.h" />
+		<Unit filename="Framework/EventsMgr.cpp" />
+		<Unit filename="Framework/EventsMgr.h" />
+		<Unit filename="Framework/FileMgr.cpp" />
+		<Unit filename="Framework/FileMgr.h" />
+		<Unit filename="Framework/TasksMgr.cpp" />
+		<Unit filename="Framework/TasksMgr.h" />
+		<Unit filename="Health.cpp">
+			<Option virtualFolder="Objects/Informational/" />
+		</Unit>
+		<Unit filename="Health.h">
+			<Option virtualFolder="Objects/Informational/" />
+		</Unit>
+		<Unit filename="Icon.cpp">
+			<Option virtualFolder="Objects/" />
+		</Unit>
+		<Unit filename="Icon.h">
+			<Option virtualFolder="Objects/" />
+		</Unit>
+		<Unit filename="NPC.cpp">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="NPC.h">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Object.cpp">
+			<Option virtualFolder="Objects/" />
+		</Unit>
+		<Unit filename="Object.h">
+			<Option virtualFolder="Objects/" />
+		</Unit>
+		<Unit filename="Player.cpp">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Player.h">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="PoisoningCloud.cpp">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="PoisoningCloud.h">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Position.cpp">
+			<Option virtualFolder="Objects/" />
+		</Unit>
+		<Unit filename="Position.h">
+			<Option virtualFolder="Objects/" />
+		</Unit>
+		<Unit filename="Spikes.cpp">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="Spikes.h">
+			<Option virtualFolder="Objects/Interactable/" />
+		</Unit>
+		<Unit filename="cTimer.cpp">
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Unit filename="cTimer.h">
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Unit filename="stdafx.h">
+			<Option compile="1" />
+			<Option weight="0" />
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Unit filename="winapi.cpp">
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Unit filename="winapi.h">
+			<Option virtualFolder="Engine/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
